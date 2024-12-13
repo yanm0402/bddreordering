@@ -1,0 +1,44 @@
+# Nanotrav Version #0.9, Release date 05/14/98
+# ./blif2bdd adder8.blif
+# CUDD Version 2.5.0
+
+PI are: 
+
+	a0
+
+	a1
+
+	a2
+
+	a3
+
+	a4
+
+	a5
+
+	a6
+
+	a7
+
+	b0
+
+	b1
+
+	b2
+
+	b3
+
+	b4
+
+	b5
+
+	b6
+
+	b7
+
+ >> no ordering (default); same order of input variables listed in row .input in BLIF  
+Ordering before the DFS re-ordering.
+size:     1267
+
+Single terminal BDD dot file: adder8.add.dot
+                BDD dot file: adder8.bdd.dot

@@ -1,5 +1,5 @@
 # bddreordering
-This project mainly implementation by a C program (auto.c) developed by Yanming Liang, the program call the blif2bdd executable from CUDD package: https://github.com/Yu-Utah/ECE-CS-5740-6740-CAD/tree/main/BDDs/blifbdd-package/blif2bdd
+This project is mainly implementated by a C program (auto.c) developed by Yanming Liang, the program call the blif2bdd executable from CUDD package: https://github.com/Yu-Utah/ECE-CS-5740-6740-CAD/tree/main/BDDs/blifbdd-package/blif2bdd
 
 This repo include 3 benchmarks in /bench; one source code in /src.
 

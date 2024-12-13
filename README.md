@@ -16,6 +16,6 @@ Before running program, you may need to change to permission of blif2bdd executa
    
    then example command: "./auto adder8.pla adder8.blif" to see the result
 
-Note: To see different result for same input, you may need to run the program with same input again in the case of shuffling function effects the size.
+Note: To see different trial result, you may need to run the program with same input again in the case of shuffling function effects the size.
 
 This project is tested in Ubuntu 24.04.1 LTS

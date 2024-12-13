@@ -15,3 +15,6 @@ Before running program, you may need to change to permission of blif2bdd executa
 2) using "chmod +x auto" directly adding permission of the executable already in the repo
    
    then example command: "./auto adder8.pla adder8.blif" to see the result
+
+
+This project is tested in Ubuntu 24.04.1 LTS

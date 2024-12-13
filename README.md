@@ -3,6 +3,8 @@ This project mainly implementation by a C program (auto.c) developed by Yanming 
 
 This repo include 3 benchmarks in /bench; one source code in /src.
 
+This program takes 2 input fils- .pla and .blif
+
 To run this program, there are two ways
 
 Before running program, you may need to change to permission of blif2bdd executable using "chmod +x blif2bdd".
